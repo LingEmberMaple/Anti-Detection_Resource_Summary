@@ -1,15 +1,15 @@
 # Anti-Detection_Resource_Summary
 
 ## Magisk:
-Custom Magisk(Modified version):https://github.com/TheHitMan7/Magisk-Files
+Custom Magisk:https://github.com/TheHitMan7/Magisk-Files
 
-Magisk Alpha(Modified version):https://github.com/vvb2060/magisk_files
+Magisk Alpha:https://github.com/vvb2060/magisk_files
 
-Magisk Delta(Modified version):https://github.com/HuskyDG/magisk-files
+Magisk Delta:https://github.com/HuskyDG/magisk-files
 
-Magisk Lite(Modified version):https://t.me/s/MagiskLite
+Magisk Lite:https://t.me/s/MagiskLite
 
-Magisk(Original version):https://github.com/topjohnwu/Magisk
+Magisk:https://github.com/topjohnwu/Magisk
 
 ## Magisk Modules:
 Denylist Unmount:https://github.com/mywalkb/DenylistUnmount
