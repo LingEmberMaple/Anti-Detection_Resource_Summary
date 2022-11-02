@@ -1,4 +1,4 @@
-# Anti-Detection_Resource_Summary
+# Anti-Detection Resource Summary
 
 ## Magisk:
 Custom Magisk:https://github.com/TheHitMan7/Magisk-Files
