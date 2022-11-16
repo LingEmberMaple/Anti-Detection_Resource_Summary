@@ -5,7 +5,7 @@ Custom Magisk:https://github.com/TheHitMan7/Magisk-Files
 
 Magisk Alpha:https://github.com/vvb2060/magisk_files
 
-Magisk Delta:https://github.com/HuskyDG/magisk-files
+Magisk Delta:https://github.com/HuskyDG/magisk-files/tree/main
 
 Magisk Lite:https://t.me/s/MagiskLite
 
@@ -60,6 +60,6 @@ Momo:https://t.me/s/magiskalpha/529
 
 Native Detector:https://github.com/LSPosed/NativeDetector
 
-Ruru:https://github.com/byxiaorun/Ruru
+Ruru:https://github.com/byxiaorun/Ruru/tree/new
 
 Yet Another SafetyNet Attestation Checker:https://github.com/RikkaW/YASNAC
