@@ -60,6 +60,8 @@ Momo:https://t.me/s/magiskalpha/529
 
 Native Detector:https://github.com/LSPosed/NativeDetector
 
+Play Integrity API Checker:https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck
+
 Ruru:https://github.com/byxiaorun/Ruru/tree/new
 
 Yet Another SafetyNet Attestation Checker:https://github.com/RikkaW/YASNAC
