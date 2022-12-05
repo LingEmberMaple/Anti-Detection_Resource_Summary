@@ -26,7 +26,7 @@ Riru - Enhanced mode for Magisk Hide(Original version,deprecated):https://github
 
 Riru - MomoHider(Modified version,for Android 11 and above):https://github.com/HuskyDG/riru-momohider
 
-Riru - MomoHider(Original version,deprecated):https://github.com/canyie/Riru-MomoHider
+Riru - MomoHider(Deprecated):https://github.com/canyie/Riru-MomoHider
 
 Riru(Original version,deprecated):https://github.com/RikkaApps/Riru
 
