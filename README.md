@@ -12,6 +12,8 @@ Magisk Lite:https://t.me/s/MagiskLite
 Magisk:https://github.com/topjohnwu/Magisk
 
 ## Magisk Modules:
+AppDataIsolation Legacy Support:https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support
+
 Denylist Unmount:https://github.com/mywalkb/DenylistUnmount
 
 LSPosed Framework:https://github.com/LSPosed/LSPosed
