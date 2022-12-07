@@ -12,7 +12,7 @@ Magisk Lite:https://t.me/s/MagiskLite
 Magisk:https://github.com/topjohnwu/Magisk
 
 ## Magisk Modules:
-AppDataIsolation Legacy Support:https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support
+AppDataIsolation Legacy Support(For Android 10 and lower):https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support
 
 Denylist Unmount:https://github.com/mywalkb/DenylistUnmount
 
@@ -22,13 +22,13 @@ MagiskHide Props Config:https://github.com/Magisk-Modules-Repo/MagiskHidePropsCo
 
 Magisk Process Monitor Tool (Dynamic Mount):https://github.com/HuskyDG/magisk_proc_monitor
 
-Riru - Enhanced mode for Magisk Hide(Modified version,for Android 10 and below):https://github.com/HuskyDG/riru-unshare
-
 Riru - Enhanced mode for Magisk Hide(Original version,deprecated):https://github.com/vvb2060/riru-unshare
 
-Riru - MomoHider(Modified version,for Android 11 and above):https://github.com/HuskyDG/riru-momohider
+Riru - MomoHider(Modified version):https://github.com/HuskyDG/riru-momohider
 
 Riru - MomoHider(Deprecated):https://github.com/canyie/Riru-MomoHider
+
+Riru(Modified version):https://github.com/HuskyDG/Riru
 
 Riru(Original version,deprecated):https://github.com/RikkaApps/Riru
 
