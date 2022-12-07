@@ -18,15 +18,15 @@ Denylist Unmount:https://github.com/mywalkb/DenylistUnmount
 
 LSPosed Framework:https://github.com/LSPosed/LSPosed
 
-MagiskHide Props Config:https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf
-
 Magisk Process Monitor Tool (Dynamic Mount):https://github.com/HuskyDG/magisk_proc_monitor
+
+MagiskHide Props Config:https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf
 
 Riru - Enhanced mode for Magisk Hide(Original version,deprecated):https://github.com/vvb2060/riru-unshare
 
-Riru - MomoHider(Modified version):https://github.com/HuskyDG/riru-momohider
-
 Riru - MomoHider(Deprecated):https://github.com/canyie/Riru-MomoHider
+
+Riru - MomoHider(Modified version):https://github.com/HuskyDG/riru-momohider
 
 Riru(Modified version):https://github.com/HuskyDG/Riru
 
