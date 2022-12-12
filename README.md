@@ -47,6 +47,8 @@ IAmNotADeveloper:https://github.com/Xposed-Modules-Repo/xyz.xfqlittlefan.notdeve
 
 IAmNotDisabled:https://github.com/AoEiuV020/IAmNotDisabled
 
+NoVPNDetect:https://github.com/Xposed-Modules-Repo/me.hoshino.novpndetect
+
 Privacy Space:https://github.com/GeekTR/PrivacySpace
 
 ## Detectors:
