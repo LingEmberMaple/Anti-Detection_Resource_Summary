@@ -36,7 +36,9 @@ Riru/Zygisk - Play Integrity Fix:https://github.com/HuskyDG/safetynet-integrity-
 
 Shamiko:https://github.com/LSPosed/LSPosed.github.io
 
-Universal SafetyNet Fix:https://github.com/kdrag0n/safetynet-fix
+Universal SafetyNet Fix(Modified version):https://github.com/Displax/safetynet-fix
+
+Universal SafetyNet Fix(Original version):https://github.com/kdrag0n/safetynet-fix
 
 XiaomiCTSPass:https://github.com/yanbuyu/XiaomiCTSPass
 
